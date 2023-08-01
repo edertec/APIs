@@ -362,7 +362,7 @@ torch==1.13.1
 tornado @ file:///opt/concourse/worker/volumes/live/2c1a63a2-006b-48ee-56b9-0cfe8b4927f9/volume/tornado_1606942321278/work
 tqdm @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_2adqcbsqqd/croots/recipe/tqdm_1664392689227/work
 traitlets @ file:///tmp/build/80754af9/traitlets_1636710298902/work
-transformers==4.25.1
+transformers==4.30.0
 trio==0.20.0
 trio-websocket==0.9.2
 Twisted @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_daykstm3mh/croots/recipe/twisted_1659592770155/work
